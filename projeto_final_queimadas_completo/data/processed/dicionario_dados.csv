@@ -1,0 +1,53 @@
+variavel,tipo,unidade,descricao,origem,id_classe_mapbiomas,uso_no_projeto
+data,Data,data,Data da observação município-dia,Calendário,,identificação
+id_municipio,Inteiro,código IBGE,Identificador do município,BDMEP/MapBiomas/Queimadas,,identificação
+id_municipio_nome,Texto,-,Nome do município,BDMEP-estação,,identificação
+sigla_uf,Texto,-,Sigla da unidade federativa,MapBiomas,,"análise, não usar diretamente sem codificação"
+sigla_uf_nome,Texto,-,Nome da unidade federativa,MapBiomas,,análise
+regiao,Texto,-,Região brasileira derivada da UF,Derivada,,análise de viés/geografia
+precipitacao_diaria,Numérico,mm/dia,Soma diária da precipitação horária,INMET/BDMEP,,feature
+pressao_media,Numérico,hPa,Pressão atmosférica média diária,INMET/BDMEP,,feature
+radiacao_global_diaria,Numérico,kJ/m²/dia,Soma diária da radiação global horária após controle de qualidade físico,INMET/BDMEP,,feature
+temperatura_media,Numérico,°C,Temperatura média diária do bulbo seco,INMET/BDMEP,,feature
+temperatura_maxima,Numérico,°C,Temperatura máxima diária,INMET/BDMEP,,feature
+temperatura_minima,Numérico,°C,Temperatura mínima diária,INMET/BDMEP,,feature
+umidade_media,Numérico,%,Umidade relativa média diária,INMET/BDMEP,,feature
+rajada_maxima,Numérico,m/s,Rajada máxima diária,INMET/BDMEP,,feature
+vento_medio,Numérico,m/s,Velocidade média diária do vento,INMET/BDMEP,,feature
+latitude,Numérico,graus decimais,Latitude média das estações do município,BDMEP-estação,,feature geográfica
+longitude,Numérico,graus decimais,Longitude média das estações do município,BDMEP-estação,,feature geográfica
+altitude,Numérico,m,Altitude média das estações do município,BDMEP-estação,,feature geográfica
+n_estacoes,Inteiro,contagem,Número de estações contribuindo para o município-dia,Derivada,,controle/feature
+mb_area_id0_sem_legenda,Numérico,km²,Área municipal em 2021: ID 0 presente no arquivo; sem correspondência na legenda oficial da Coleção 7 consultada,MapBiomas Coleção 7,0,feature estrutural
+mb_area_formacao_florestal,Numérico,km²,Área municipal em 2021: Formação Florestal,MapBiomas Coleção 7,3,feature estrutural
+mb_area_formacao_savanica,Numérico,km²,Área municipal em 2021: Formação Savânica,MapBiomas Coleção 7,4,feature estrutural
+mb_area_mangue,Numérico,km²,Área municipal em 2021: Mangue,MapBiomas Coleção 7,5,feature estrutural
+mb_area_silvicultura,Numérico,km²,Área municipal em 2021: Silvicultura / Forest Plantation,MapBiomas Coleção 7,9,feature estrutural
+mb_area_campo_alagado_area_pantanosa,Numérico,km²,Área municipal em 2021: Campo Alagado e Área Pantanosa,MapBiomas Coleção 7,11,feature estrutural
+mb_area_formacao_campestre,Numérico,km²,Área municipal em 2021: Formação Campestre,MapBiomas Coleção 7,12,feature estrutural
+mb_area_outras_formacoes_nao_florestais,Numérico,km²,Área municipal em 2021: Outras Formações não Florestais,MapBiomas Coleção 7,13,feature estrutural
+mb_area_pastagem,Numérico,km²,Área municipal em 2021: Pastagem,MapBiomas Coleção 7,15,feature estrutural
+mb_area_cana,Numérico,km²,Área municipal em 2021: Cana,MapBiomas Coleção 7,20,feature estrutural
+mb_area_mosaico_de_usos,Numérico,km²,Área municipal em 2021: Mosaico de Usos,MapBiomas Coleção 7,21,feature estrutural
+mb_area_praia_duna_areal,Numérico,km²,"Área municipal em 2021: Praia, Duna e Areal",MapBiomas Coleção 7,23,feature estrutural
+mb_area_area_urbanizada,Numérico,km²,Área municipal em 2021: Área Urbanizada,MapBiomas Coleção 7,24,feature estrutural
+mb_area_outras_areas_nao_vegetadas,Numérico,km²,Área municipal em 2021: Outras Áreas não Vegetadas,MapBiomas Coleção 7,25,feature estrutural
+mb_area_afloramento_rochoso,Numérico,km²,Área municipal em 2021: Afloramento Rochoso,MapBiomas Coleção 7,29,feature estrutural
+mb_area_mineracao,Numérico,km²,Área municipal em 2021: Mineração,MapBiomas Coleção 7,30,feature estrutural
+mb_area_aquicultura,Numérico,km²,Área municipal em 2021: Aquicultura,MapBiomas Coleção 7,31,feature estrutural
+mb_area_apicum,Numérico,km²,Área municipal em 2021: Apicum,MapBiomas Coleção 7,32,feature estrutural
+mb_area_rio_lago_oceano,Numérico,km²,"Área municipal em 2021: Rio, Lago e Oceano",MapBiomas Coleção 7,33,feature estrutural
+mb_area_soja,Numérico,km²,Área municipal em 2021: Soja,MapBiomas Coleção 7,39,feature estrutural
+mb_area_arroz_beta,Numérico,km²,Área municipal em 2021: Arroz (beta),MapBiomas Coleção 7,40,feature estrutural
+mb_area_outras_lavouras_temporarias,Numérico,km²,Área municipal em 2021: Outras Lavouras Temporárias,MapBiomas Coleção 7,41,feature estrutural
+mb_area_cafe,Numérico,km²,Área municipal em 2021: Café,MapBiomas Coleção 7,46,feature estrutural
+mb_area_citrus,Numérico,km²,Área municipal em 2021: Citrus,MapBiomas Coleção 7,47,feature estrutural
+mb_area_outras_lavouras_perenes,Numérico,km²,Área municipal em 2021: Outras Lavouras Perenes,MapBiomas Coleção 7,48,feature estrutural
+mb_area_restinga_arborizada,Numérico,km²,Área municipal em 2021: Restinga Arborizada,MapBiomas Coleção 7,49,feature estrutural
+mb_area_restinga_herbacea,Numérico,km²,Área municipal em 2021: Restinga Herbácea,MapBiomas Coleção 7,50,feature estrutural
+mb_area_algodao_beta,Numérico,km²,Área municipal em 2021: Algodão (beta),MapBiomas Coleção 7,62,feature estrutural
+mes,Inteiro,1–12,Mês da observação,Derivada,,feature temporal
+dia_do_ano,Inteiro,1–365,Dia do ano,Derivada,,feature temporal
+dia_semana,Inteiro,0=segunda ... 6=domingo,Dia da semana,Derivada,,feature temporal
+focos_queimada,Inteiro,contagem,Número de focos no município-dia,Queimadas,,somente EDA; NÃO usar como feature (leakage)
+fire_occurrence,Binário,0/1,Variável alvo: 1 quando há pelo menos um foco no município-dia,Derivada de queimadas,,TARGET

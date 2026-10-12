@@ -1,0 +1,78 @@
+{
+  "model": "LightGBM",
+  "operational_threshold": 0.42,
+  "training_period": [
+    "2025-01-01",
+    "2025-01-28"
+  ],
+  "validation_period": [
+    "2025-01-29",
+    "2025-02-04"
+  ],
+  "test_period": [
+    "2025-02-05",
+    "2025-02-12"
+  ],
+  "features_numeric": [
+    "precipitacao_diaria",
+    "pressao_media",
+    "radiacao_global_diaria",
+    "temperatura_media",
+    "temperatura_maxima",
+    "temperatura_minima",
+    "umidade_media",
+    "rajada_maxima",
+    "vento_medio",
+    "latitude",
+    "longitude",
+    "altitude",
+    "mb_log_total_area",
+    "mes",
+    "dia_do_ano",
+    "dia_semana",
+    "mb_share_formacao_florestal",
+    "mb_share_formacao_savanica",
+    "mb_share_mangue",
+    "mb_share_silvicultura",
+    "mb_share_campo_alagado_area_pantanosa",
+    "mb_share_formacao_campestre",
+    "mb_share_outras_formacoes_nao_florestais",
+    "mb_share_pastagem",
+    "mb_share_cana",
+    "mb_share_mosaico_de_usos",
+    "mb_share_praia_duna_areal",
+    "mb_share_area_urbanizada",
+    "mb_share_outras_areas_nao_vegetadas",
+    "mb_share_afloramento_rochoso",
+    "mb_share_mineracao",
+    "mb_share_aquicultura",
+    "mb_share_apicum",
+    "mb_share_rio_lago_oceano",
+    "mb_share_soja",
+    "mb_share_arroz_beta",
+    "mb_share_outras_lavouras_temporarias",
+    "mb_share_cafe",
+    "mb_share_citrus",
+    "mb_share_outras_lavouras_perenes",
+    "mb_share_restinga_arborizada",
+    "mb_share_restinga_herbacea",
+    "mb_share_algodao_beta"
+  ],
+  "features_categorical": [
+    "sigla_uf",
+    "regiao"
+  ],
+  "test_metrics_operational_threshold": {
+    "acuracia": 0.7505047591577733,
+    "precisao": 0.34935304990757854,
+    "recall": 0.7012987012987013,
+    "f1_score": 0.4663787785317705,
+    "roc_auc": 0.8091892494702799,
+    "false_negative_rate": 0.2987012987012987,
+    "TN": 2224,
+    "FP": 704,
+    "FN": 161,
+    "TP": 378
+  },
+  "note": "Use predict_proba e compare com threshold 0.42. O método predict() da pipeline usa 0.50 por padrão."
+}

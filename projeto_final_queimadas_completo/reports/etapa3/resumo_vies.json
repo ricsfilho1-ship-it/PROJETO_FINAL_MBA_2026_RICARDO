@@ -1,0 +1,9 @@
+{
+  "threshold": 0.34,
+  "recall_gap_regioes": 0.2566384809375464,
+  "melhor_recall_regiao": "Centro-Oeste",
+  "pior_recall_regiao": "Sudeste",
+  "recall_gap_ufs_elegiveis": 0.8290909090909091,
+  "n_ufs_elegiveis": 16,
+  "nota": "A base não contém gênero, raça ou outros atributos demográficos; portanto a análise de viés foi limitada a geografia (região e UF)."
+}

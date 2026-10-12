@@ -1,0 +1,15 @@
+{
+  "n_raw_window": 1156872,
+  "n_unique_station_hour_before": 579984,
+  "n_rows_before_climate_filter": 23306,
+  "n_rows_removed_no_climate": 4451,
+  "n_municipalities_removed_all_no_climate": 85,
+  "n_rows_final": 18855,
+  "n_municipalities_final": 457,
+  "n_positive": 2885,
+  "positive_rate": 0.1530098117210289,
+  "total_fire_spots": 13550,
+  "n_radiation_invalid_station_days": 45,
+  "n_radiation_zero_station_days": 22,
+  "n_radiation_above_ra_station_days": 23
+}

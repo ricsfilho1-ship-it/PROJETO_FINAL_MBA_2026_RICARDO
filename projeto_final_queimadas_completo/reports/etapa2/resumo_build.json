@@ -1,0 +1,27 @@
+{
+  "execution_status": "OK - notebook executado com nbconvert",
+  "missing_required_files": [],
+  "dataset_shape": [
+    18855,
+    52
+  ],
+  "train_rows": 12342,
+  "valid_rows": 3046,
+  "test_rows": 3467,
+  "selected_model": "LightGBM",
+  "threshold": 0.42,
+  "selected_test_metrics": {
+    "acuracia": 0.7505047591577733,
+    "precisao": 0.34935304990757854,
+    "recall": 0.7012987012987013,
+    "f1_score": 0.4663787785317705,
+    "roc_auc": 0.8091892494702799,
+    "false_negative_rate": 0.2987012987012987,
+    "TN": 2224,
+    "FP": 704,
+    "FN": 161,
+    "TP": 378
+  },
+  "zip": "/mnt/data/projeto_final_queimadas_etapa2_corrigido_github.zip",
+  "zip_size_mb": 5.11
+}

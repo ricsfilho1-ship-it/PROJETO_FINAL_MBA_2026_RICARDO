@@ -1,0 +1,2 @@
+modelo,acuracia,precisao,recall,f1_score,roc_auc,false_negative_rate,TN,FP,FN,TP
+Baseline - sempre 0,0.8445341794058263,0.0,0.0,0.0,0.5,1.0,2928,0,539,0

@@ -1,0 +1,8 @@
+variavel,regra,n_invalidos,acao
+precipitacao_diaria,precipitação < 0 mm,0,convertido para NaN
+pressao_media,pressão <= 0 hPa,0,convertido para NaN
+umidade_media,umidade fora de 0–100%,0,convertido para NaN
+vento_medio,vento médio < 0 m/s,0,convertido para NaN
+rajada_maxima,rajada < 0 m/s,0,convertido para NaN
+temperatura_maxima/minima,temperatura máxima < mínima,0,ambas convertidas para NaN
+radiacao_global_diaria,<=0 ou >105% da radiação extraterrestre diária,45,convertido para NaN

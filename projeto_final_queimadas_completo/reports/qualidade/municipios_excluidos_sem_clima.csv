@@ -1,0 +1,86 @@
+id_municipio,id_municipio_nome,dias_no_periodo,dias_sem_nenhum_clima,dias_com_algum_clima,pct_dias_com_algum_clima,municipio_sem_clima_total
+1100023,Ariquemes,43,43,0,0.0,True
+1200203,Cruzeiro do Sul,43,43,0,0.0,True
+1200344,Manoel Urbano,43,43,0,0.0,True
+1200351,Marechal Thaumaturgo,43,43,0,0.0,True
+1200393,Porto Walter,43,43,0,0.0,True
+1300300,Autazes,43,43,0,0.0,True
+1301407,Eirunepé,43,43,0,0.0,True
+1302900,Maués,43,43,0,0.0,True
+1303536,Presidente Figueiredo,43,43,0,0.0,True
+1303569,Rio Preto da Eva,43,43,0,0.0,True
+1501808,Breves,43,43,0,0.0,True
+1502103,Cametá,43,43,0,0.0,True
+1502301,Capitão Poço,43,43,0,0.0,True
+1504208,Marabá,43,43,0,0.0,True
+1504455,Medicilândia,43,43,0,0.0,True
+1505502,Paragominas,43,43,0,0.0,True
+1505536,Parauapebas,43,43,0,0.0,True
+1600253,Itaubal,43,43,0,0.0,True
+1703842,Campos Lindos,43,43,0,0.0,True
+1707009,Dianópolis,43,43,0,0.0,True
+1717503,Pium,43,43,0,0.0,True
+2101608,Barra do Corda,43,43,0,0.0,True
+2105005,Humberto de Campos,43,43,0,0.0,True
+2200608,Angical do Piauí,43,43,0,0.0,True
+2202505,Caracol,43,43,0,0.0,True
+2203909,Floriano,43,43,0,0.0,True
+2207702,Parnaíba,43,43,0,0.0,True
+2211001,Teresina,43,43,0,0.0,True
+2301901,Barbalha,43,43,0,0.0,True
+2302701,Campos Sales,43,43,0,0.0,True
+2305100,Guaramiranga,43,43,0,0.0,True
+2306405,Itapipoca,43,43,0,0.0,True
+2307809,Marco,43,43,0,0.0,True
+2312908,Sobral,43,43,0,0.0,True
+2313302,Tauá,43,43,0,0.0,True
+2313401,Tianguá,43,43,0,0.0,True
+2401008,Apodi,43,43,0,0.0,True
+2503100,Cabaceiras,43,43,0,0.0,True
+2507002,Itaporanga,43,43,0,0.0,True
+2611101,Petrolina,43,43,0,0.0,True
+2614501,Surubim,43,43,0,0.0,True
+2708501,São Luís do Quitunde,43,43,0,0.0,True
+2802908,Itabaiana,43,43,0,0.0,True
+2805505,Poço Verde,43,43,0,0.0,True
+2903904,Bom Jesus da Lapa,43,43,0,0.0,True
+2904753,Buritirama,43,43,0,0.0,True
+2910800,Feira de Santana,43,43,0,0.0,True
+2915601,Itamaraju,43,43,0,0.0,True
+2916401,Itapetinga,43,43,0,0.0,True
+2917508,Jacobina,43,43,0,0.0,True
+2918100,Jeremoabo,43,43,0,0.0,True
+2919603,Macajuba,43,43,0,0.0,True
+2920700,Maraú,43,43,0,0.0,True
+2924306,Piatã,43,43,0,0.0,True
+2925303,Porto Seguro,43,43,0,0.0,True
+2925808,Queimadas,43,43,0,0.0,True
+2930501,Serrinha,43,43,0,0.0,True
+2932903,Valença,43,43,0,0.0,True
+3504503,Avaré,43,43,0,0.0,True
+3505500,Barretos,43,43,0,0.0,True
+3516200,Franca,43,43,0,0.0,True
+3519600,Ibitinga,43,43,0,0.0,True
+3525706,José Bonifácio,43,43,0,0.0,True
+3527108,Lins,43,43,0,0.0,True
+4109906,Icaraíma,43,43,0,0.0,True
+4117008,Nova Fátima,43,43,0,0.0,True
+4202503,Bom Jardim da Serra,43,43,0,0.0,True
+4203006,Caçador,43,43,0,0.0,True
+4209409,Laguna,43,43,0,0.0,True
+4310009,Ibirubá,43,43,0,0.0,True
+4321352,Tavares,43,43,0,0.0,True
+5100250,Alta Floresta,43,43,0,0.0,True
+5100805,Apiacás,43,43,0,0.0,True
+5102637,Campo Novo do Parecis,43,43,0,0.0,True
+5102793,Carlinda,43,43,0,0.0,True
+5103304,Comodoro,43,43,0,0.0,True
+5104203,Guiratinga,43,43,0,0.0,True
+5105101,Juara,43,43,0,0.0,True
+5106240,Nova Ubiratã,43,43,0,0.0,True
+5106752,Pontes e Lacerda,43,43,0,0.0,True
+5106851,Porto Estrela,43,43,0,0.0,True
+5107040,Primavera do Leste,43,43,0,0.0,True
+5107354,São José do Xingu,43,43,0,0.0,True
+5107883,Serra Nova Dourada,43,43,0,0.0,True
+5213103,Mineiros,43,43,0,0.0,True

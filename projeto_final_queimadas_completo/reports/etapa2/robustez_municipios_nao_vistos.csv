@@ -1,0 +1,2 @@
+municipios_treino,municipios_teste_nao_vistos,threshold,acuracia,precisao,recall,f1_score,roc_auc,false_negative_rate,TN,FP,FN,TP
+365,92,0.42,0.7477290423046976,0.38183217859892227,0.7458646616541353,0.505091649694501,0.8205776360600372,0.25413533834586466,2385,803,169,496

@@ -1,0 +1,543 @@
+id_municipio,id_municipio_nome,dias_no_periodo,dias_sem_nenhum_clima,dias_com_algum_clima,pct_dias_com_algum_clima,municipio_sem_clima_total
+1100023,Ariquemes,43,43,0,0.0,True
+1100049,Cacoal,43,0,43,100.0,False
+1100205,Porto Velho,43,24,19,44.18604651162791,False
+1100304,Vilhena,43,0,43,100.0,False
+1200203,Cruzeiro do Sul,43,43,0,0.0,True
+1200252,Epitaciolândia,43,0,43,100.0,False
+1200302,Feijó,43,0,43,100.0,False
+1200344,Manoel Urbano,43,43,0,0.0,True
+1200351,Marechal Thaumaturgo,43,43,0,0.0,True
+1200393,Porto Walter,43,43,0,0.0,True
+1200401,Rio Branco,43,0,43,100.0,False
+1300144,Apuí,43,0,43,100.0,False
+1300300,Autazes,43,43,0,0.0,True
+1300409,Barcelos,43,0,43,100.0,False
+1300706,Boca do Acre,43,0,43,100.0,False
+1301209,Coari,43,0,43,100.0,False
+1301407,Eirunepé,43,43,0,0.0,True
+1301704,Humaitá,43,0,43,100.0,False
+1301902,Itacoatiara,43,0,43,100.0,False
+1302405,Lábrea,43,0,43,100.0,False
+1302504,Manacapuru,43,0,43,100.0,False
+1302603,Manaus,43,0,43,100.0,False
+1302702,Manicoré,43,0,43,100.0,False
+1302900,Maués,43,43,0,0.0,True
+1303403,Parintins,43,0,43,100.0,False
+1303536,Presidente Figueiredo,43,43,0,0.0,True
+1303569,Rio Preto da Eva,43,43,0,0.0,True
+1303809,São Gabriel da Cachoeira,43,0,43,100.0,False
+1304302,Urucará,43,0,43,100.0,False
+1400100,Boa Vista,43,0,43,100.0,False
+1500602,Altamira,43,0,43,100.0,False
+1501402,Belém,43,0,43,100.0,False
+1501709,Bragança,43,0,43,100.0,False
+1501808,Breves,43,43,0,0.0,True
+1502103,Cametá,43,43,0,0.0,True
+1502301,Capitão Poço,43,43,0,0.0,True
+1502400,Castanhal,43,0,43,100.0,False
+1502707,Conceição do Araguaia,43,0,43,100.0,False
+1502939,Dom Eliseu,43,0,43,100.0,False
+1503606,Itaituba,43,0,43,100.0,False
+1504208,Marabá,43,43,0,0.0,True
+1504455,Medicilândia,43,43,0,0.0,True
+1504802,Monte Alegre,43,0,43,100.0,False
+1505064,Novo Repartimento,43,0,43,100.0,False
+1505106,Óbidos,43,3,40,93.02325581395348,False
+1505486,Pacajá,43,0,43,100.0,False
+1505502,Paragominas,43,43,0,0.0,True
+1505536,Parauapebas,43,43,0,0.0,True
+1505650,Placas,43,0,43,100.0,False
+1506138,Redenção,43,0,43,100.0,False
+1506187,Rondon do Pará,43,0,43,100.0,False
+1506203,Salinópolis,43,41,2,4.651162790697675,False
+1506583,Santa Maria das Barreiras,43,0,43,100.0,False
+1506708,Santana do Araguaia,43,28,15,34.883720930232556,False
+1506807,Santarém,43,0,43,100.0,False
+1507300,São Félix do Xingu,43,0,43,100.0,False
+1507904,Soure,43,0,43,100.0,False
+1508001,Tomé-Açu,43,0,43,100.0,False
+1508084,Tucumã,43,0,43,100.0,False
+1508100,Tucuruí,43,17,26,60.46511627906977,False
+1508407,Xinguara,43,0,43,100.0,False
+1600253,Itaubal,43,43,0,0.0,True
+1600303,Macapá,43,0,43,100.0,False
+1600501,Oiapoque,43,0,43,100.0,False
+1600535,Porto Grande,43,0,43,100.0,False
+1700400,Almas,43,0,43,100.0,False
+1702000,Araguaçu,43,0,43,100.0,False
+1702109,Araguaína,43,0,43,100.0,False
+1702208,Araguatins,43,0,43,100.0,False
+1703842,Campos Lindos,43,43,0,0.0,True
+1703909,Caseara,43,0,43,100.0,False
+1705508,Colinas do Tocantins,43,5,38,88.37209302325581,False
+1707009,Dianópolis,43,43,0,0.0,True
+1708205,Formoso do Araguaia,43,0,43,100.0,False
+1709500,Gurupi,43,0,43,100.0,False
+1711902,Lagoa da Confusão,43,0,43,100.0,False
+1712702,Mateiros,43,0,43,100.0,False
+1716208,Paranã,43,0,43,100.0,False
+1716505,Pedro Afonso,43,0,43,100.0,False
+1716604,Peixe,43,3,40,93.02325581395348,False
+1717503,Pium,43,43,0,0.0,True
+1718758,Rio Sono,43,0,43,100.0,False
+1718865,Santa Fé do Araguaia,43,0,43,100.0,False
+1718907,Santa Rosa do Tocantins,43,0,43,100.0,False
+1721000,Palmas,43,0,43,100.0,False
+2100501,Alto Parnaíba,43,0,43,100.0,False
+2101202,Bacabal,43,0,43,100.0,False
+2101400,Balsas,43,21,22,51.16279069767442,False
+2101608,Barra do Corda,43,43,0,0.0,True
+2101707,Barreirinhas,43,0,43,100.0,False
+2102325,Buriticupu,43,4,39,90.69767441860465,False
+2102804,Carolina,43,0,43,100.0,False
+2103000,Caxias,43,0,43,100.0,False
+2103208,Chapadinha,43,0,43,100.0,False
+2103505,Colinas,43,26,17,39.53488372093023,False
+2104057,Estreito,43,0,43,100.0,False
+2104800,Grajaú,43,41,2,4.651162790697675,False
+2105005,Humberto de Campos,43,43,0,0.0,True
+2105302,Imperatriz,43,0,43,100.0,False
+2111300,São Luís,43,0,43,100.0,False
+2112407,Turiaçu,43,0,43,100.0,False
+2114007,Zé Doca,43,0,43,100.0,False
+2200459,Alvorada do Gurguéia,43,0,43,100.0,False
+2200608,Angical do Piauí,43,43,0,0.0,True
+2201150,Baixa Grande do Ribeiro,43,0,43,100.0,False
+2201903,Bom Jesus,43,19,24,55.81395348837209,False
+2202208,Campo Maior,43,0,43,100.0,False
+2202307,Canto do Buriti,43,0,43,100.0,False
+2202505,Caracol,43,43,0,0.0,True
+2202604,Castelo do Piauí,43,0,43,100.0,False
+2202901,Corrente,43,0,43,100.0,False
+2203909,Floriano,43,43,0,0.0,True
+2204402,Gilbués,43,15,28,65.11627906976744,False
+2207009,Oeiras,43,0,43,100.0,False
+2207702,Parnaíba,43,43,0,0.0,True
+2207801,Paulistana,43,0,43,100.0,False
+2208007,Picos,43,0,43,100.0,False
+2208403,Piripiri,43,0,43,100.0,False
+2210003,São João do Piauí,43,0,43,100.0,False
+2210607,São Raimundo Nonato,43,26,17,39.53488372093023,False
+2211001,Teresina,43,43,0,0.0,True
+2211209,Uruçuí,43,0,43,100.0,False
+2211308,Valença do Piauí,43,0,43,100.0,False
+2301901,Barbalha,43,43,0,0.0,True
+2302701,Campos Sales,43,43,0,0.0,True
+2304103,Crateús,43,0,43,100.0,False
+2304400,Fortaleza,43,13,30,69.76744186046511,False
+2305100,Guaramiranga,43,43,0,0.0,True
+2305506,Iguatu,43,7,36,83.72093023255815,False
+2306405,Itapipoca,43,43,0,0.0,True
+2306900,Jaguaribe,43,0,43,100.0,False
+2307007,Jaguaruana,43,0,43,100.0,False
+2307809,Marco,43,43,0,0.0,True
+2308708,Morada Nova,43,0,43,100.0,False
+2311306,Quixadá,43,0,43,100.0,False
+2311405,Quixeramobim,43,4,39,90.69767441860465,False
+2312908,Sobral,43,43,0,0.0,True
+2313302,Tauá,43,43,0,0.0,True
+2313401,Tianguá,43,43,0,0.0,True
+2401008,Apodi,43,43,0,0.0,True
+2402006,Caicó,43,0,43,100.0,False
+2404705,Ipanguaçu,43,1,42,97.67441860465117,False
+2407203,Macau,43,0,43,100.0,False
+2408102,Natal,43,0,43,100.0,False
+2411056,Tibau,43,0,43,100.0,False
+2411205,Santa Cruz,43,0,43,100.0,False
+2414407,Touros,43,0,43,100.0,False
+2501104,Areia,43,0,43,100.0,False
+2503100,Cabaceiras,43,43,0,0.0,True
+2504009,Campina Grande,43,0,43,100.0,False
+2507002,Itaporanga,43,43,0,0.0,True
+2507507,João Pessoa,43,0,43,100.0,False
+2508901,Mamanguape,43,0,43,100.0,False
+2509701,Monteiro,43,0,43,100.0,False
+2510808,Patos,43,0,43,100.0,False
+2516201,Sousa,43,0,43,100.0,False
+2601201,Arcoverde,43,0,43,100.0,False
+2603009,Cabrobó,43,0,43,100.0,False
+2604106,Caruaru,43,0,43,100.0,False
+2605707,Floresta,43,0,43,100.0,False
+2606002,Garanhuns,43,0,43,100.0,False
+2606606,Ibimirim,43,0,43,100.0,False
+2609907,Ouricuri,43,0,43,100.0,False
+2610004,Palmares,43,0,43,100.0,False
+2611101,Petrolina,43,43,0,0.0,True
+2612208,Salgueiro,43,0,43,100.0,False
+2613909,Serra Talhada,43,0,43,100.0,False
+2614501,Surubim,43,43,0,0.0,True
+2700300,Arapiraca,43,7,36,83.72093023255815,False
+2702306,Coruripe,43,0,43,100.0,False
+2704302,Maceió,43,0,43,100.0,False
+2706307,Palmeira dos Índios,43,3,40,93.02325581395348,False
+2706406,Pão de Açúcar,43,0,43,100.0,False
+2707107,Piranhas,43,0,43,100.0,False
+2708501,São Luís do Quitunde,43,43,0,0.0,True
+2800308,Aracaju,43,0,43,100.0,False
+2800704,Brejo Grande,43,0,43,100.0,False
+2802908,Itabaiana,43,43,0,0.0,True
+2803005,Itabaianinha,43,0,43,100.0,False
+2804508,Nossa Senhora da Glória,43,0,43,100.0,False
+2805505,Poço Verde,43,43,0,0.0,True
+2901007,Amargosa,43,0,43,100.0,False
+2902708,Barra,43,0,43,100.0,False
+2903201,Barreiras,43,0,43,100.0,False
+2903904,Bom Jesus da Lapa,43,43,0,0.0,True
+2904605,Brumado,43,0,43,100.0,False
+2904753,Buritirama,43,43,0,0.0,True
+2906907,Caravelas,43,0,43,100.0,False
+2908606,Conde,43,0,43,100.0,False
+2909307,Correntina,43,0,43,100.0,False
+2909802,Cruz das Almas,43,0,43,100.0,False
+2909901,Curaçá,43,16,27,62.7906976744186,False
+2910701,Euclides da Cunha,43,0,43,100.0,False
+2910800,Feira de Santana,43,43,0,0.0,True
+2911105,Formosa do Rio Preto,43,0,43,100.0,False
+2911709,Guanambi,43,0,43,100.0,False
+2913200,Ibotirama,43,0,43,100.0,False
+2913606,Ilhéus,43,0,43,100.0,False
+2913903,Ipiaú,43,0,43,100.0,False
+2914604,Irecê,43,0,43,100.0,False
+2914703,Itaberaba,43,0,43,100.0,False
+2915601,Itamaraju,43,43,0,0.0,True
+2916401,Itapetinga,43,43,0,0.0,True
+2917508,Jacobina,43,43,0,0.0,True
+2917607,Jaguaquara,43,0,43,100.0,False
+2918100,Jeremoabo,43,43,0,0.0,True
+2919306,Lençóis,43,40,3,6.976744186046512,False
+2919553,Luís Eduardo Magalhães,43,0,43,100.0,False
+2919603,Macajuba,43,43,0,0.0,True
+2920700,Maraú,43,43,0,0.0,True
+2924306,Piatã,43,43,0,0.0,True
+2925303,Porto Seguro,43,43,0,0.0,True
+2925808,Queimadas,43,43,0,0.0,True
+2926004,Remanso,43,21,22,51.16279069767442,False
+2926509,Ribeira do Amparo,43,0,43,100.0,False
+2927408,Salvador,43,0,43,100.0,False
+2927705,Santa Cruz Cabrália,43,0,43,100.0,False
+2928406,Santa Rita de Cássia,43,1,42,97.67441860465117,False
+2930105,Senhor do Bonfim,43,0,43,100.0,False
+2930501,Serrinha,43,43,0,0.0,True
+2932457,Umburanas,43,0,43,100.0,False
+2932507,Una,43,0,43,100.0,False
+2932903,Valença,43,43,0,0.0,True
+2933307,Vitória da Conquista,43,0,43,100.0,False
+3101003,Águas Vermelhas,43,0,43,100.0,False
+3101102,Aimorés,43,0,43,100.0,False
+3101706,Almenara,43,0,43,100.0,False
+3103405,Araçuaí,43,0,43,100.0,False
+3104007,Araxá,43,0,43,100.0,False
+3105103,Bambuí,43,0,43,100.0,False
+3105608,Barbacena,43,0,43,100.0,False
+3106200,Belo Horizonte,43,0,43,100.0,False
+3109303,Buritis,43,0,43,100.0,False
+3110301,Caldas,43,0,43,100.0,False
+3110509,Camanducaia,43,0,43,100.0,False
+3111101,Campina Verde,43,0,43,100.0,False
+3112307,Capelinha,43,0,43,100.0,False
+3113404,Caratinga,43,0,43,100.0,False
+3116159,Chapada Gaúcha,43,12,31,72.09302325581395,False
+3117306,Conceição das Alagoas,43,0,43,100.0,False
+3117836,Cônego Marinho,43,0,43,100.0,False
+3120904,Curvelo,43,0,43,100.0,False
+3121605,Diamantina,43,0,43,100.0,False
+3122306,Divinópolis,43,0,43,100.0,False
+3123205,Dores do Indaiá,43,0,43,100.0,False
+3124302,Espinosa,43,0,43,100.0,False
+3126000,Florestal,43,0,43,100.0,False
+3126109,Formiga,43,0,43,100.0,False
+3127388,Goianá,43,0,43,100.0,False
+3127701,Governador Valadares,43,0,43,100.0,False
+3128006,Guanhães,43,0,43,100.0,False
+3128600,Guarda-Mor,43,0,43,100.0,False
+3133303,Itaobim,43,0,43,100.0,False
+3134202,Ituiutaba,43,0,43,100.0,False
+3135050,Jaíba,43,0,43,100.0,False
+3136306,João Pinheiro,43,0,43,100.0,False
+3136702,Juiz de Fora,43,0,43,100.0,False
+3139003,Machado,43,0,43,100.0,False
+3139409,Manhuaçu,43,0,43,100.0,False
+3139607,Mantena,43,0,43,100.0,False
+3139904,Maria da Fé,43,0,43,100.0,False
+3142700,Montalvânia,43,0,43,100.0,False
+3143302,Montes Claros,43,0,43,100.0,False
+3143906,Muriaé,43,0,43,100.0,False
+3145059,Nova Porteirinha,43,0,43,100.0,False
+3145604,Oliveira,43,0,43,100.0,False
+3145901,Ouro Branco,43,0,43,100.0,False
+3147006,Paracatu,43,4,39,90.69767441860465,False
+3147600,Passa Quatro,43,0,43,100.0,False
+3147907,Passos,43,0,43,100.0,False
+3148004,Patos de Minas,43,0,43,100.0,False
+3148103,Patrocínio,43,7,36,83.72093023255815,False
+3151206,Pirapora,43,0,43,100.0,False
+3155603,Rio Pardo de Minas,43,0,43,100.0,False
+3156908,Sacramento,43,0,43,100.0,False
+3157005,Salinas,43,0,43,100.0,False
+3161700,São Gonçalo do Abaeté,43,0,43,100.0,False
+3162500,São João del Rei,43,0,43,100.0,False
+3164209,São Romão,43,0,43,100.0,False
+3164704,São Sebastião do Paraíso,43,0,43,100.0,False
+3166709,Serra dos Aimorés,43,0,43,100.0,False
+3167202,Sete Lagoas,43,0,43,100.0,False
+3168606,Teófilo Otoni,43,0,43,100.0,False
+3168705,Timóteo,43,0,43,100.0,False
+3170107,Uberaba,43,0,43,100.0,False
+3170206,Uberlândia,43,0,43,100.0,False
+3170404,Unaí,43,0,43,100.0,False
+3170701,Varginha,43,0,43,100.0,False
+3171303,Viçosa,43,0,43,100.0,False
+3200102,Afonso Cláudio,43,0,43,100.0,False
+3200201,Alegre,43,0,43,100.0,False
+3202108,Ecoporanga,43,0,43,100.0,False
+3203205,Linhares,43,0,43,100.0,False
+3203353,Marilândia,43,0,43,100.0,False
+3204302,Presidente Kennedy,43,0,43,100.0,False
+3204500,Santa Leopoldina,43,0,43,100.0,False
+3204906,São Mateus,43,0,43,100.0,False
+3205069,Venda Nova do Imigrante,43,0,43,100.0,False
+3205200,Vila Velha,43,0,43,100.0,False
+3205309,Vitória,43,0,43,100.0,False
+3300100,Angra dos Reis,43,0,43,100.0,False
+3300258,Arraial do Cabo,43,0,43,100.0,False
+3300902,Cambuci,43,0,43,100.0,False
+3301009,Campos dos Goytacazes,43,0,43,100.0,False
+3301207,Carmo,43,7,36,83.72093023255815,False
+3301702,Duque de Caxias,43,0,43,100.0,False
+3302403,Macaé,43,0,43,100.0,False
+3303302,Niterói,43,0,43,100.0,False
+3303401,Nova Friburgo,43,0,43,100.0,False
+3303807,Paraty,43,0,43,100.0,False
+3303906,Petrópolis,43,0,43,100.0,False
+3304201,Resende,43,0,43,100.0,False
+3304409,Rio Claro,43,0,43,100.0,False
+3304557,Rio de Janeiro,43,0,43,100.0,False
+3304607,Santa Maria Madalena,43,0,43,100.0,False
+3305505,Saquarema,43,0,43,100.0,False
+3305554,Seropédica,43,0,43,100.0,False
+3305604,Silva Jardim,43,0,43,100.0,False
+3305802,Teresópolis,43,1,42,97.67441860465117,False
+3306008,Três Rios,43,0,43,100.0,False
+3306107,Valença,43,31,12,27.906976744186046,False
+3503703,Ariranha,43,0,43,100.0,False
+3504503,Avaré,43,43,0,0.0,True
+3505302,Barra Bonita,43,0,43,100.0,False
+3505401,Barra do Turvo,43,0,43,100.0,False
+3505500,Barretos,43,43,0,0.0,True
+3505708,Barueri,43,0,43,100.0,False
+3506003,Bauru,43,0,43,100.0,False
+3506102,Bebedouro,43,0,43,100.0,False
+3506201,Bento de Abreu,43,0,43,100.0,False
+3506359,Bertioga,43,0,43,100.0,False
+3507605,Bragança Paulista,43,0,43,100.0,False
+3508603,Cachoeira Paulista,43,0,43,100.0,False
+3509700,Campos do Jordão,43,0,43,100.0,False
+3510807,Casa Branca,43,0,43,100.0,False
+3514403,Dracena,43,0,43,100.0,False
+3516200,Franca,43,43,0,0.0,True
+3519600,Ibitinga,43,43,0,0.0,True
+3520301,Iguape,43,0,43,100.0,False
+3521002,Iperó,43,0,43,100.0,False
+3522406,Itapeva,43,0,43,100.0,False
+3522604,Itapira,43,0,43,100.0,False
+3524105,Ituverava,43,0,43,100.0,False
+3524808,Jales,43,0,43,100.0,False
+3525706,José Bonifácio,43,43,0,0.0,True
+3527108,Lins,43,43,0,0.0,True
+3529005,Marília,43,0,43,100.0,False
+3534708,Ourinhos,43,0,43,100.0,False
+3538709,Piracicaba,43,35,8,18.6046511627907,False
+3540903,Pradópolis,43,0,43,100.0,False
+3541406,Presidente Prudente,43,0,43,100.0,False
+3542206,Rancharia,43,0,43,100.0,False
+3542602,Registro,43,25,18,41.86046511627907,False
+3548906,São Carlos,43,0,43,100.0,False
+3550001,São Luís do Paraitinga,43,0,43,100.0,False
+3550209,São Miguel Arcanjo,43,0,43,100.0,False
+3550308,São Paulo,43,0,43,100.0,False
+3550902,São Simão,43,0,43,100.0,False
+3554102,Taubaté,43,0,43,100.0,False
+3555000,Tupã,43,0,43,100.0,False
+4103909,Campina da Lagoa,43,0,43,100.0,False
+4104907,Castro,43,38,5,11.627906976744185,False
+4105607,Cidade Gaúcha,43,0,43,100.0,False
+4105706,Clevelândia,43,0,43,100.0,False
+4105805,Colombo,43,0,43,100.0,False
+4106902,Curitiba,43,0,43,100.0,False
+4107108,Diamante do Norte,43,0,43,100.0,False
+4107207,Dois Vizinhos,43,0,43,100.0,False
+4108304,Foz do Iguaçu,43,0,43,100.0,False
+4108502,General Carneiro,43,0,43,100.0,False
+4108601,Goioerê,43,17,26,60.46511627906977,False
+4109906,Icaraíma,43,43,0,0.0,True
+4110201,Inácio Martins,43,0,43,100.0,False
+4111407,Ivaí,43,0,43,100.0,False
+4112306,Japira,43,0,43,100.0,False
+4112801,Joaquim Távora,43,0,43,100.0,False
+4113304,Laranjeiras do Sul,43,0,43,100.0,False
+4114609,Marechal Cândido Rondon,43,0,43,100.0,False
+4115200,Maringá,43,1,42,97.67441860465117,False
+4116208,Morretes,43,0,43,100.0,False
+4117008,Nova Fátima,43,43,0,0.0,True
+4117271,Nova Tebas,43,0,43,100.0,False
+4118303,Paranapoema,43,42,1,2.3255813953488373,False
+4119806,Planalto,43,0,43,100.0,False
+4125605,São Mateus do Sul,43,0,43,100.0,False
+4128534,Ventania,43,0,43,100.0,False
+4201406,Araranguá,43,0,43,100.0,False
+4202503,Bom Jardim da Serra,43,43,0,0.0,True
+4203006,Caçador,43,43,0,0.0,True
+4203600,Campos Novos,43,0,43,100.0,False
+4204202,Chapecó,43,0,43,100.0,False
+4204806,Curitibanos,43,0,43,100.0,False
+4205001,Dionísio Cerqueira,43,0,43,100.0,False
+4207502,Indaial,43,0,43,100.0,False
+4208203,Itajaí,43,0,43,100.0,False
+4208450,Itapoá,43,31,12,27.906976744186046,False
+4208500,Ituporanga,43,0,43,100.0,False
+4209003,Joaçaba,43,0,43,100.0,False
+4209300,Lages,43,0,43,100.0,False
+4209409,Laguna,43,43,0,0.0,True
+4210308,Major Vieira,43,0,43,100.0,False
+4211652,Novo Horizonte,43,0,43,100.0,False
+4214300,Rancho Queimado,43,0,43,100.0,False
+4214508,Rio do Campo,43,0,43,100.0,False
+4215000,Rio Negrinho,43,0,43,100.0,False
+4216503,São Joaquim,43,0,43,100.0,False
+4216602,São José,43,0,43,100.0,False
+4217204,São Miguel do Oeste,43,9,34,79.06976744186046,False
+4219002,Urussanga,43,4,39,90.69767441860465,False
+4219507,Xanxerê,43,0,43,100.0,False
+4300406,Alegrete,43,0,43,100.0,False
+4301602,Bagé,43,0,43,100.0,False
+4302105,Bento Gonçalves,43,0,43,100.0,False
+4302808,Caçapava do Sul,43,0,43,100.0,False
+4303509,Camaquã,43,0,43,100.0,False
+4303608,Cambará do Sul,43,0,43,100.0,False
+4303905,Campo Bom,43,0,43,100.0,False
+4304408,Canela,43,0,43,100.0,False
+4304507,Canguçu,43,0,43,100.0,False
+4304663,Capão do Leão,43,0,43,100.0,False
+4306106,Cruz Alta,43,0,43,100.0,False
+4306601,Dom Pedrito,43,0,43,100.0,False
+4306908,Encruzilhada do Sul,43,0,43,100.0,False
+4307005,Erechim,43,0,43,100.0,False
+4308508,Frederico Westphalen,43,4,39,90.69767441860465,False
+4310009,Ibirubá,43,43,0,0.0,True
+4311007,Jaguarão,43,0,43,100.0,False
+4311304,Lagoa Vermelha,43,0,43,100.0,False
+4313706,Palmeira das Missões,43,0,43,100.0,False
+4314100,Passo Fundo,43,0,43,100.0,False
+4314902,Porto Alegre,43,0,43,100.0,False
+4315305,Quaraí,43,3,40,93.02325581395348,False
+4315602,Rio Grande,43,0,43,100.0,False
+4315701,Rio Pardo,43,0,43,100.0,False
+4316907,Santa Maria,43,0,43,100.0,False
+4317103,Sant'Ana do Livramento,43,0,43,100.0,False
+4317202,Santa Rosa,43,0,43,100.0,False
+4317301,Santa Vitória do Palmar,43,0,43,100.0,False
+4317400,Santiago,43,0,43,100.0,False
+4317806,Santo Augusto,43,0,43,100.0,False
+4318002,São Borja,43,0,43,100.0,False
+4318309,São Gabriel,43,0,43,100.0,False
+4318622,São José dos Ausentes,43,0,43,100.0,False
+4318903,São Luiz Gonzaga,43,35,8,18.6046511627907,False
+4319802,São Vicente do Sul,43,0,43,100.0,False
+4320404,Serafina Corrêa,43,0,43,100.0,False
+4320800,Soledade,43,0,43,100.0,False
+4321352,Tavares,43,43,0,0.0,True
+4321451,Teutônia,43,0,43,100.0,False
+4321600,Tramandaí,43,0,43,100.0,False
+4322202,Tupanciretã,43,0,43,100.0,False
+4322400,Uruguaiana,43,0,43,100.0,False
+4322509,Vacaria,43,0,43,100.0,False
+5000203,Água Clara,43,0,43,100.0,False
+5000609,Amambai,43,0,43,100.0,False
+5001102,Aquidauana,43,0,43,100.0,False
+5001904,Bataguassu,43,0,43,100.0,False
+5002159,Bodoquena,43,0,43,100.0,False
+5002704,Campo Grande,43,0,43,100.0,False
+5002902,Cassilândia,43,0,43,100.0,False
+5002951,Chapadão do Sul,43,42,1,2.3255813953488373,False
+5003207,Corumbá,43,0,43,100.0,False
+5003256,Costa Rica,43,12,31,72.09302325581395,False
+5003306,Coxim,43,0,43,100.0,False
+5004502,Itaporã,43,8,35,81.3953488372093,False
+5004601,Itaquiraí,43,0,43,100.0,False
+5004700,Ivinhema,43,0,43,100.0,False
+5005004,Jardim,43,0,43,100.0,False
+5005152,Juti,43,0,43,100.0,False
+5005400,Maracaju,43,0,43,100.0,False
+5006309,Paranaíba,43,0,43,100.0,False
+5006606,Ponta Porã,43,0,43,100.0,False
+5006903,Porto Murtinho,43,0,43,100.0,False
+5007208,Rio Brilhante,43,0,43,100.0,False
+5007695,São Gabriel do Oeste,43,0,43,100.0,False
+5007703,Sete Quedas,43,0,43,100.0,False
+5007901,Sidrolândia,43,5,38,88.37209302325581,False
+5007935,Sonora,43,0,43,100.0,False
+5008305,Três Lagoas,43,0,43,100.0,False
+5100201,Água Boa,43,0,43,100.0,False
+5100250,Alta Floresta,43,43,0,0.0,True
+5100300,Alto Araguaia,43,0,43,100.0,False
+5100607,Alto Taquari,43,0,43,100.0,False
+5100805,Apiacás,43,43,0,0.0,True
+5101902,Brasnorte,43,1,42,97.67441860465117,False
+5102637,Campo Novo do Parecis,43,43,0,0.0,True
+5102678,Campo Verde,43,0,43,100.0,False
+5102793,Carlinda,43,43,0,0.0,True
+5103304,Comodoro,43,43,0,0.0,True
+5103379,Cotriguaçu,43,0,43,100.0,False
+5103403,Cuiabá,43,0,43,100.0,False
+5103858,Gaúcha do Norte,43,7,36,83.72093023255815,False
+5104104,Guarantã do Norte,43,22,21,48.83720930232558,False
+5104203,Guiratinga,43,43,0,0.0,True
+5104609,Itiquira,43,0,43,100.0,False
+5105101,Juara,43,43,0,0.0,True
+5105150,Juína,43,0,43,100.0,False
+5105507,Vila Bela da Santíssima Trindade,43,0,43,100.0,False
+5106240,Nova Ubiratã,43,43,0,0.0,True
+5106307,Paranatinga,43,0,43,100.0,False
+5106752,Pontes e Lacerda,43,43,0,0.0,True
+5106851,Porto Estrela,43,43,0,0.0,True
+5107040,Primavera do Leste,43,43,0,0.0,True
+5107065,Querência,43,0,43,100.0,False
+5107305,São José do Rio Claro,43,0,43,100.0,False
+5107354,São José do Xingu,43,43,0,0.0,True
+5107602,Rondonópolis,43,0,43,100.0,False
+5107701,Rosário Oeste,43,0,43,100.0,False
+5107750,Salto do Céu,43,0,43,100.0,False
+5107792,Santo Antônio do Leste,43,0,43,100.0,False
+5107875,Sapezal,43,0,43,100.0,False
+5107883,Serra Nova Dourada,43,43,0,0.0,True
+5107909,Sinop,43,0,43,100.0,False
+5107925,Sorriso,43,0,43,100.0,False
+5107958,Tangará da Serra,43,0,43,100.0,False
+5108907,Nova Maringá,43,0,43,100.0,False
+5200605,Alto Paraíso de Goiás,43,7,36,83.72093023255815,False
+5201702,Aragarças,43,0,43,100.0,False
+5204409,Caiapônia,43,0,43,100.0,False
+5205109,Catalão,43,0,43,100.0,False
+5206206,Cristalina,43,0,43,100.0,False
+5207402,Edéia,43,0,43,100.0,False
+5208608,Goianésia,43,0,43,100.0,False
+5208707,Goiânia,43,0,43,100.0,False
+5208905,Goiás,43,0,43,100.0,False
+5210208,Iporá,43,0,43,100.0,False
+5210901,Itapaci,43,0,43,100.0,False
+5211503,Itumbiara,43,0,43,100.0,False
+5211909,Jataí,43,0,43,100.0,False
+5212501,Luziânia,43,0,43,100.0,False
+5213103,Mineiros,43,43,0,0.0,True
+5213509,Monte Alegre de Goiás,43,0,43,100.0,False
+5213806,Morrinhos,43,0,43,100.0,False
+5216403,Paraúna,43,0,43,100.0,False
+5217401,Pires do Rio,43,0,43,100.0,False
+5218003,Porangatu,43,0,43,100.0,False
+5218300,Posse,43,0,43,100.0,False
+5218805,Rio Verde,43,0,43,100.0,False
+5220207,São Miguel do Araguaia,43,0,43,100.0,False
+5220405,São Simão,43,0,43,100.0,False
+5220603,Silvânia,43,0,43,100.0,False
+5300108,Brasília,43,0,43,100.0,False

@@ -1,0 +1,69 @@
+{
+  "model": "LightGBM otimizado com Optuna",
+  "n_optuna_trials": 6,
+  "best_cv_roc_auc": 0.8135459063648892,
+  "best_params": {
+    "n_estimators": 100,
+    "learning_rate": 0.076070187687831,
+    "num_leaves": 49,
+    "max_depth": 4,
+    "min_child_samples": 25,
+    "subsample": 0.7958511274633584,
+    "colsample_bytree": 0.8260605607398844,
+    "reg_alpha": 0.0180714563413956,
+    "reg_lambda": 0.007207895500630222,
+    "scale_pos_weight": 2.1649165607921677
+  },
+  "operational_threshold": 0.34,
+  "training_period_evaluation_model": [
+    "2025-01-01",
+    "2025-01-28"
+  ],
+  "validation_period_threshold": [
+    "2025-01-29",
+    "2025-02-04"
+  ],
+  "test_period": [
+    "2025-02-05",
+    "2025-02-12"
+  ],
+  "test_metrics_evaluation_model": {
+    "acuracia": 0.7580040380732622,
+    "precisao": 0.36007462686567165,
+    "recall": 0.7161410018552876,
+    "f1_score": 0.4792054624456859,
+    "roc_auc": 0.8176267526384622,
+    "false_negative_rate": 0.28385899814471244,
+    "TN": 2242,
+    "FP": 686,
+    "FN": 153,
+    "TP": 386
+  },
+  "top3_shap": [
+    {
+      "variavel_original": "mb_log_total_area",
+      "mean_abs_shap": 0.6409129179809527,
+      "participacao_pct": 20.290483016146542
+    },
+    {
+      "variavel_original": "temperatura_maxima",
+      "mean_abs_shap": 0.4551343414612292,
+      "participacao_pct": 14.408970963756676
+    },
+    {
+      "variavel_original": "radiacao_global_diaria",
+      "mean_abs_shap": 0.30899034125960767,
+      "participacao_pct": 9.78223889016342
+    }
+  ],
+  "bias_summary": {
+    "threshold": 0.34,
+    "recall_gap_regioes": 0.2566384809375464,
+    "melhor_recall_regiao": "Centro-Oeste",
+    "pior_recall_regiao": "Sudeste",
+    "recall_gap_ufs_elegiveis": 0.8290909090909091,
+    "n_ufs_elegiveis": 16,
+    "nota": "A base não contém gênero, raça ou outros atributos demográficos; portanto a análise de viés foi limitada a geografia (região e UF)."
+  },
+  "final_model_note": "lightgbm_stage3_final.joblib foi reajustado em treino+validação após a avaliação final; o teste não foi usado no fit."
+}
